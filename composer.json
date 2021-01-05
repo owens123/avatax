@@ -9,4 +9,5 @@
         "psr-4": {"AvaTax\\": "AvaTax"}
     },
     "minimum-stability": "dev"
+}
 
