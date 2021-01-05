@@ -1,5 +1,5 @@
 {
-    "name": "avalara/avatax",
+    "name": "ashford/avatax",
     "version": "16.1.0",
     "description": "A set of classes to assist with integration to the Avalara AvaTax SOAP API.",
     "require": {
